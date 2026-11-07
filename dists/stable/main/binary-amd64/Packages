@@ -38,6 +38,27 @@ Description: Le tarot français sur tapis vert, à quatre autour de la table
  de débutant, d'intermédiaire ou d'expert, et trois profils qui séparent votre
  table de celle des autres.
 
+Package: pmane-sa
+Version: 1.3.1
+Architecture: amd64
+Maintainer: pdulvp <pdulvp@laposte.net>
+Installed-Size: 1886
+Depends: libc6 (>= 2.35), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11)
+Recommends: wine, qt6-svg-plugins
+Suggests: gamescope, steam, dosbox, scummvm, retroarch
+Filename: pool/main/p/pmane-sa/pmane-sa_1.3.1_amd64.deb
+Size: 571724
+MD5sum: 912150c08280d599fdda56967bd31e01
+SHA1: fef7ac961b9ecbb766f09e174517fc5fa34191ab
+SHA256: 20d5c6b72ca7bac8e49604e09a50b59c7c4677a3abecbfd204ab3bd5cbccbb2d
+Section: x11
+Priority: optional
+Homepage: https://github.com/pdulvp/pmane-sa
+Description: A Windows 3.1 Program Manager for Linux
+ A Progman-style desktop for Windows programs run through Wine or Proton, with
+ program groups, a wine prefix per program, scaling for programs written for
+ smaller screens, and a kiosk mode for a machine that boots straight into it.
+
 Package: prel
 Version: 0.3.0
 Architecture: all
