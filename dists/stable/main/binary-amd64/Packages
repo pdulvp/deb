@@ -1,3 +1,23 @@
+Package: pdcartes-barquette
+Version: 1.3.1
+Architecture: amd64
+Maintainer: pdulvp <pdulvp@laposte.net>
+Installed-Size: 771
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Recommends: qt6-svg-plugins
+Filename: pool/main/p/pdcartes-barquette/pdcartes-barquette_1.3.1_amd64.deb
+Size: 238994
+MD5sum: c7ec0a3e30750cf35ec8573a18c049d2
+SHA1: 2c00105cc31a08146fe1968114561caf9cbb055d
+SHA256: 0747173e6469a40e6bab397ea56f6742c43c70aee445267016e2e67e42d12140
+Section: games
+Priority: optional
+Description: L'atelier des jeux de cartes
+ Un programme pour fabriquer des jeux de cartes : on lui donne des images, ou
+ une DLL Windows dont il extrait les images, on place les faces et les dos dans
+ une grille, et il produit un seul fichier à copier dans le dossier des cartes,
+ où les programmes de jeu qui lisent ce format le trouvent.
+
 Package: pdcartes-rami
 Version: 1.2.9
 Architecture: amd64
