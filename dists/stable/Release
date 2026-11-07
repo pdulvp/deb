@@ -1,0 +1,20 @@
+Architectures: all
+Codename: stable
+Components: main
+Date: Sat, 07 Nov 2026 14:02:50 +0000
+Description: pdulvp Debian package repository
+Label: pdulvp
+Origin: pdulvp
+Suite: stable
+MD5Sum:
+ 64bb84e3198166e5a9ab7c51310ddfd2              877 main/binary-all/Packages
+ 44748d7e18defa577a2fa74f3773db74              602 main/binary-all/Packages.gz
+SHA1:
+ d9f6c0833d6f7896fe97b8111d2a6d1612f0c7d2              877 main/binary-all/Packages
+ f57f1760dbe6484f6142756fd5d3c410387d5171              602 main/binary-all/Packages.gz
+SHA256:
+ 2706e0cb5ffa7a2b6e658bec05e9ee6583f66b4c8386891d66880cedb7f897b4              877 main/binary-all/Packages
+ cc90b57b4a4001fd1149849c2801a5ff7ebf2e0ccfaa3c2ed8ee95bbec479a11              602 main/binary-all/Packages.gz
+SHA512:
+ 93a555a4769aeafa7dd0b59443351f1d3d5a41ee179078c22ef7a76dbb453f56f9829136c7fc00f18c31da11c17b2c5562cbee86b2301d458fbc918c14aa8c56              877 main/binary-all/Packages
+ e388c1dba0fab4c78ec9f5bb41f9b8191416a76392e72e67551e17e50b9e92cbc305c3bd3f9de65f2f9842568594a2ae1cd97cb036349255fd5cdeb3fd041f8e              602 main/binary-all/Packages.gz

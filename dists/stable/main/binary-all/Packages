@@ -1,0 +1,22 @@
+Package: prel
+Version: 0.3.0
+Architecture: all
+Maintainer: pdulvp <pdulvp@laposte.net>
+Depends: bash (>= 4.0), git, coreutils
+Recommends: gh, jq, pbus
+Filename: pool/main/p/prel/prel_0.3.0_all.deb
+Size: 67576
+MD5sum: ee1b1531bc0d719bf770810fbe3a6ee0
+SHA1: 45f72d98dd4dfb96506a337157feaab6bf483844
+SHA256: 9f4375c2d07ecae6325a14a638d132056b436346a761b8ed2d3f6c362c86c44b
+Section: vcs
+Priority: optional
+Homepage: https://github.com/pdulvp/prel
+Description: Git management toolkit for commit attribution and hooks
+ prel registers a set of git hooks, a skill and a set of memories with a
+ repository, so that finished work plans are filed as GitHub issues and
+ commits carry the attribution of whoever - or whatever - wrote them.
+ .
+ It also drives releases: moving a VERSION file on, tagging it, building the
+ artifacts and publishing them to the GitHub release in one command.
+
