@@ -1,0 +1,43 @@
+Package: pdcartes-tarot
+Version: 1.1.2
+Architecture: amd64
+Maintainer: pdulvp <pdulvp@laposte.net>
+Installed-Size: 5209
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Recommends: qt6-svg-plugins
+Filename: pool/main/p/pdcartes-tarot/pdcartes-tarot_1.1.2_amd64.deb
+Size: 2571900
+MD5sum: a77e1243cb5461220e20967de44e9b43
+SHA1: 213b19208e010fadba04f48f1cbca4df105fbcb0
+SHA256: 81b49ce506a7745d1d5f26a32b09f0116072c192095e479abdd39ab69d6fe085
+Section: games
+Priority: optional
+Description: Le tarot français sur tapis vert, à quatre autour de la table
+ Le tarot français à quatre joueurs : soixante-dix-huit cartes, une enchère
+ de la petite à la garde contre, un chien, un écart et dix-huit plis. Trois
+ adversaires qui apprennent d'une partie à l'autre, chacun gardant son expérience
+ de débutant, d'intermédiaire ou d'expert, et trois profils qui séparent votre
+ table de celle des autres.
+
+Package: prel
+Version: 0.3.0
+Architecture: all
+Maintainer: pdulvp <pdulvp@laposte.net>
+Depends: bash (>= 4.0), git, coreutils
+Recommends: gh, jq, pbus
+Filename: pool/main/p/prel/prel_0.3.0_all.deb
+Size: 67576
+MD5sum: ee1b1531bc0d719bf770810fbe3a6ee0
+SHA1: 45f72d98dd4dfb96506a337157feaab6bf483844
+SHA256: 9f4375c2d07ecae6325a14a638d132056b436346a761b8ed2d3f6c362c86c44b
+Section: vcs
+Priority: optional
+Homepage: https://github.com/pdulvp/prel
+Description: Git management toolkit for commit attribution and hooks
+ prel registers a set of git hooks, a skill and a set of memories with a
+ repository, so that finished work plans are filed as GitHub issues and
+ commits carry the attribution of whoever - or whatever - wrote them.
+ .
+ It also drives releases: moving a VERSION file on, tagging it, building the
+ artifacts and publishing them to the GitHub release in one command.
+

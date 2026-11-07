@@ -1,39 +1,39 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Architectures: all
+Architectures: amd64
 Codename: stable
 Components: main
-Date: Sat, 07 Nov 2026 14:02:50 +0000
+Date: Sat, 07 Nov 2026 17:44:41 +0000
 Description: pdulvp Debian package repository
 Label: pdulvp
 Origin: pdulvp
 Suite: stable
 MD5Sum:
- 64bb84e3198166e5a9ab7c51310ddfd2              877 main/binary-all/Packages
- 44748d7e18defa577a2fa74f3773db74              602 main/binary-all/Packages.gz
+ d4a3f3c077a259d65d7c3ed48d87c424             1872 main/binary-amd64/Packages
+ f76a267c11d73b2c69392a969b88a9c7             1086 main/binary-amd64/Packages.gz
 SHA1:
- d9f6c0833d6f7896fe97b8111d2a6d1612f0c7d2              877 main/binary-all/Packages
- f57f1760dbe6484f6142756fd5d3c410387d5171              602 main/binary-all/Packages.gz
+ ee7910c73e204fb6e28cd9c81641339cc0a98321             1872 main/binary-amd64/Packages
+ 5d048ba544472ac83c5cf2c9a1c7a391265e1707             1086 main/binary-amd64/Packages.gz
 SHA256:
- 2706e0cb5ffa7a2b6e658bec05e9ee6583f66b4c8386891d66880cedb7f897b4              877 main/binary-all/Packages
- cc90b57b4a4001fd1149849c2801a5ff7ebf2e0ccfaa3c2ed8ee95bbec479a11              602 main/binary-all/Packages.gz
+ 683e3421e910f14ba87f4713241e7c5877de27b2e42f585677cca5cce17bc0f7             1872 main/binary-amd64/Packages
+ c2b4bcb65ecc4ed4393f24a0b92a16fda33ed2449b7e6aea05e8c1ca906a541d             1086 main/binary-amd64/Packages.gz
 SHA512:
- 93a555a4769aeafa7dd0b59443351f1d3d5a41ee179078c22ef7a76dbb453f56f9829136c7fc00f18c31da11c17b2c5562cbee86b2301d458fbc918c14aa8c56              877 main/binary-all/Packages
- e388c1dba0fab4c78ec9f5bb41f9b8191416a76392e72e67551e17e50b9e92cbc305c3bd3f9de65f2f9842568594a2ae1cd97cb036349255fd5cdeb3fd041f8e              602 main/binary-all/Packages.gz
+ 9ceeb9fa0c4c1815d05160962ab0c9005b9472961b95a8c844222b3e6f27b3c2e043b36623171ae43a64afde3983da5829cdfb0dc7b37554939706fad13ff007             1872 main/binary-amd64/Packages
+ 4acb6fc2c2fb79c6ed6c68cffa99b2ec572ed8d30ea93f476865a11b4ebb84daf623d395cdd3560f1868a0e8ac1cb8aeb6a1cc83e622988d35e7ef6cbc648a3f             1086 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEr+a7TZ3d+N3G9yDkRBWvP8gxDxYFAmrvL4oACgkQRBWvP8gx
-DxYi9Q/+LWmFDXGDk/NxbmgAC4SVxjagP0oHMwObsTHyO6542TwLwrra0KeeNIcr
-IwAiYHjCbcin1v+1HNfSje2OY6671L/hYNktU+ovx9K9M+eAbmdI+nK6gisVjmdL
-xQammQZ3lCCVPBa/yN5MkulUAI1hJ8iU1t4jOwpiYT8z2rGwAtgHvpOfa7fQU5HN
-vac5mzwwv9qfdVT0URy0i6VNqmYLC/Nz/z96+6fXOu9zY/6u3g3/Xfz+JjV6fWdj
-IlepxPYyuuIV/dwxya8rXkIkWKuyXfZ0XdA0xCAmX7mFpEez8gYDDegEPMpWB0kF
-B/xFDYDaqdGCeEdxOXs1lPWozruoTraoN46354h8lDuZc8Xysfj0VO+OGl4KdsrO
-MfUYAOGQKY9CsEOFVOELLaL58gwWJKp3ngayJskFHTm0iguvmgU8/5FEjXgWz2Jf
-57SHPb7bwsmUrdyglZ7t2fvfTcHT0JlG20aIAckGU+fOKTiK+8XlnPyHYMFhx1mY
-f7QTlm+Ucwao9RJ+skxZ9JY3zQUXQVVfSUCWOByz+w78MmmG/oAAiKZg6pRQYM3j
-7B5Cb5keCHWi36vhHPfFjXygXnVcjuJtYOAkVWys+aCjhJnaAwDqlb+q5jn6v1Cm
-Qzs12+9pxMZJkDK/VHtPc51T+8w1RQI83x+fJVHsQBqcHiSueEo=
-=ub3E
+iQIzBAEBCgAdFiEEr+a7TZ3d+N3G9yDkRBWvP8gxDxYFAmrvY4kACgkQRBWvP8gx
+DxZreA/6AxoSK9mNyBtRUmuNzoFe9Ib2sUbTflpImDUKQ+IqZIDkY25uSgoAqSOC
+8RNcISlzcnvAYSIbN0OLpMfaB4WG0gcEklaLPA/IYdeXnrBJZ2OsMVKGLnIkk+J9
+blSHABwxmaJDv8/9IR4As9D2fFmwgMMeeXN/AQh2xOQUKEMhzKd4dWCqxl5t81Sx
+nfQ4NqAQRUM/e8uuL52a+MO5F6elsR0ecBU++Ap0VY+/j/pmzZ1DvQNvAgolTSqY
+fVWi0KuegBzHjvl2YHgEGibh8wEj7Hrod10NyHZjeFpBGV9WLpQ58aaIYD6TCkei
+5f+4mFV3PfUprpqNaz35mzmoKz6IYrPj4CCNOO53AvVIB89rTPJRZRwFxV64PrB/
+k/y/LB6O2LJCVIns1/wYrOVL16KT9yORCkPRtXuZ/xyt3c47QjaG9VR0s70IFrf2
+WjYb4Xo2kJpZwMrZehk/Xik6Vr4TI20QhIC7PsXPG+w+/P0o23RC5HYnF1riKW45
+BSDAoqKXDur+47dJDHgSZRbaaqKdF9kNAWEUOsj85Aka88S049Mu5FDcFYAk9Ep5
+1fuWQC0Wu0jgerFqzq1qAA6tDiTqVKzbQ7BAEteOXNqzLCb44ZUrRE+eQLi1+EZ9
+aV/kRWa4fWwyXoNQxl7ZkRRfby1mvbY/Kxj+BJ8uhGgW5BYKyFQ=
+=7eJ8
 -----END PGP SIGNATURE-----
