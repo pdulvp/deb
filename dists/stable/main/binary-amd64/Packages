@@ -1,3 +1,22 @@
+Package: pdcartes-rami
+Version: 1.2.9
+Architecture: amd64
+Maintainer: pdulvp <pdulvp@laposte.net>
+Installed-Size: 5300
+Depends: hicolor-icon-theme, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 11)
+Recommends: qt6-svg-plugins
+Filename: pool/main/p/pdcartes-rami/pdcartes-rami_1.2.9_amd64.deb
+Size: 2599842
+MD5sum: 5f295708c47a96bcdf59a736dcf2c335
+SHA1: d297ac2280ae0abdba52da4c1311770460ff171c
+SHA256: b40832d712973f9b3877debff9d1fd81841492c5eacf4541d9bc2103160e0bc0
+Section: games
+Priority: optional
+Description: Le rami sur tapis vert, à six autour de la table
+ Le rami français, joué contre cinq adversaires qui apprennent d'une partie
+ à l'autre : chacun garde son expérience, débutant, intermédiaire ou expert, et
+ trois profils séparent la vôtre de celle des autres.
+
 Package: pdcartes-tarot
 Version: 1.1.2
 Architecture: amd64
