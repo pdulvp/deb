@@ -79,6 +79,27 @@ Description: A Windows 3.1 Program Manager for Linux
  program groups, a wine prefix per program, scaling for programs written for
  smaller screens, and a kiosk mode for a machine that boots straight into it.
 
+Package: pmane-sa
+Version: 1.3.2
+Architecture: amd64
+Maintainer: pdulvp <pdulvp@laposte.net>
+Installed-Size: 1910
+Depends: libc6 (>= 2.35), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.4.0), libqt6network6 (>= 6.1.2), libqt6widgets6 (>= 6.4.0), libstdc++6 (>= 11)
+Recommends: wine, qt6-svg-plugins
+Suggests: gamescope, steam, dosbox, scummvm, retroarch
+Filename: pool/main/p/pmane-sa/pmane-sa_1.3.2_amd64.deb
+Size: 580778
+MD5sum: 5935e78fd13db92343917dff29028e0f
+SHA1: 7525b9204f1a3465062460e10cae2527eaa7864d
+SHA256: b9b93abd186fd895f127efc4017c2111c69150274bb20c1da2372987965cf862
+Section: x11
+Priority: optional
+Homepage: https://github.com/pdulvp/pmane-sa
+Description: A Windows 3.1 Program Manager for Linux
+ A Progman-style desktop for Windows programs run through Wine or Proton, with
+ program groups, a wine prefix per program, scaling for programs written for
+ smaller screens, and a kiosk mode for a machine that boots straight into it.
+
 Package: prel
 Version: 0.3.0
 Architecture: all
