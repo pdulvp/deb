@@ -58,6 +58,27 @@ Description: Le tarot français sur tapis vert, à quatre autour de la table
  de débutant, d'intermédiaire ou d'expert, et trois profils qui séparent votre
  table de celle des autres.
 
+Package: pdcartes-tarot
+Version: 1.2.0
+Architecture: amd64
+Maintainer: pdulvp <pdulvp@laposte.net>
+Installed-Size: 6014
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 5)
+Recommends: qt6-svg-plugins
+Filename: pool/main/p/pdcartes-tarot/pdcartes-tarot_1.2.0_amd64.deb
+Size: 3396584
+MD5sum: 4dc4bd069313c9ef82b180bd6ea998a2
+SHA1: 7f60863e8c44565125e3f5f8d9b5db08559ad1ef
+SHA256: 9ea34cc5c70223ec08740f7339a3f452bdc00c0d2805f76b9536b49226b02cf5
+Section: games
+Priority: optional
+Description: Le tarot français sur tapis vert, à quatre autour de la table
+ Le tarot français à quatre joueurs : soixante-dix-huit cartes, une enchère
+ de la petite à la garde contre, un chien, un écart et dix-huit plis. Trois
+ adversaires qui apprennent d'une partie à l'autre, chacun gardant son expérience
+ de débutant, d'intermédiaire ou d'expert, et trois profils qui séparent votre
+ table de celle des autres.
+
 Package: pmane-sa
 Version: 1.3.1
 Architecture: amd64
