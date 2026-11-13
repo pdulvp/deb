@@ -21,6 +21,29 @@ Description: Per-folder credits playlists (.xspf) for video folders
  so a changed configuration is picked up, and a negative end time is
  resolved with ffprobe as duration minus the given seconds.
 
+Package: credits-edit
+Version: 0.2.2
+Architecture: all
+Maintainer: pdulvp <pdulvp@laposte.net>
+Depends: bash (>= 4.0), coreutils, findutils, jq
+Recommends: ffmpeg
+Filename: pool/main/c/credits-edit/credits-edit_0.2.2_all.deb
+Size: 6940
+MD5sum: 95b2c184face8246c2995262eeb8676a
+SHA1: 8787906c6195feb123cf04e479cc9eb8a8dd0fab
+SHA256: 293466bf4a575298a4bdb62e7e97ccf31ee53285c820f1bce53c8d14bea6dc0b
+Section: video
+Priority: optional
+Homepage: https://github.com/pdulvp/series-generique
+Description: Per-folder credits playlists (.xspf) for video folders
+ credits-edit keeps a credits.config.json in each folder (a starting and
+ an ending credits video with optional start/end seconds, plus movie
+ start/end seconds) and generates one VLC .xspf playlist beside every
+ video found recursively in the current folder, playing starting credits,
+ movie and ending credits in order. Existing .xspf files are overwritten
+ so a changed configuration is picked up, and a negative end time is
+ resolved with ffprobe as duration minus the given seconds.
+
 Package: pdcartes-barquette
 Version: 1.3.1
 Architecture: amd64
